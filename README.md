@@ -10,6 +10,8 @@ please install:
 (1) PyQt5
 (2) python 3.4 or above
 the applications are free/open source (including QtDesigner and can be downloaded for free)
+(3) Database Management System Used: DB Browser for SQLite 3.12 or above 
 
-visited:
+visit for installation files:
 https://sourceforge.net/
+https://sqlitebrowser.org/
